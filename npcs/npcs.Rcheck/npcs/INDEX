@@ -1,0 +1,9 @@
+error_rate              Calculate the error rates for each class.
+gamma_smote             Gamma-synthetic minority over-sampling
+                        technique (gamma-SMOTE).
+generate_data           Generate the data.
+npcs                    Fit a multi-class Neyman-Pearson classifier
+                        with error controls via cost-sensitive
+                        learning.
+predict.npcs            Predict new labels from new data based on the
+                        fitted NPMC classifier.
